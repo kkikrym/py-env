@@ -1,0 +1,382 @@
+,0,1
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}NumberOfSubmissionDEI,"{'contextRef': 'FilingDateInstant', 'decimals': '0', 'unitRef': 'pure'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NetSalesSummaryOfBusinessResults,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NetSalesSummaryOfBusinessResults,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NetSalesSummaryOfBusinessResults,"{'contextRef': 'Prior1YearDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}OrdinaryIncomeLossSummaryOfBusinessResults,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}OrdinaryIncomeLossSummaryOfBusinessResults,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}OrdinaryIncomeLossSummaryOfBusinessResults,"{'contextRef': 'Prior1YearDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}ProfitLossAttributableToOwnersOfParentSummaryOfBusinessResults,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}ProfitLossAttributableToOwnersOfParentSummaryOfBusinessResults,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}ProfitLossAttributableToOwnersOfParentSummaryOfBusinessResults,"{'contextRef': 'Prior1YearDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}ComprehensiveIncomeSummaryOfBusinessResults,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}ComprehensiveIncomeSummaryOfBusinessResults,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}ComprehensiveIncomeSummaryOfBusinessResults,"{'contextRef': 'Prior1YearDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NetAssetsSummaryOfBusinessResults,"{'contextRef': 'Prior1QuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NetAssetsSummaryOfBusinessResults,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NetAssetsSummaryOfBusinessResults,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TotalAssetsSummaryOfBusinessResults,"{'contextRef': 'Prior1QuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TotalAssetsSummaryOfBusinessResults,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TotalAssetsSummaryOfBusinessResults,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}BasicEarningsLossPerShareSummaryOfBusinessResults,"{'contextRef': 'Prior1YTDDuration', 'decimals': '2', 'unitRef': 'JPYPerShares'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}BasicEarningsLossPerShareSummaryOfBusinessResults,"{'contextRef': 'CurrentYTDDuration', 'decimals': '2', 'unitRef': 'JPYPerShares'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}BasicEarningsLossPerShareSummaryOfBusinessResults,"{'contextRef': 'Prior1YearDuration', 'decimals': '2', 'unitRef': 'JPYPerShares'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}DilutedEarningsPerShareSummaryOfBusinessResults,"{'contextRef': 'Prior1YTDDuration', 'unitRef': 'JPYPerShares', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}DilutedEarningsPerShareSummaryOfBusinessResults,"{'contextRef': 'CurrentYTDDuration', 'unitRef': 'JPYPerShares', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}DilutedEarningsPerShareSummaryOfBusinessResults,"{'contextRef': 'Prior1YearDuration', 'unitRef': 'JPYPerShares', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}EquityToAssetRatioSummaryOfBusinessResults,"{'contextRef': 'Prior1QuarterInstant', 'decimals': '3', 'unitRef': 'pure'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}EquityToAssetRatioSummaryOfBusinessResults,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '3', 'unitRef': 'pure'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}EquityToAssetRatioSummaryOfBusinessResults,"{'contextRef': 'Prior1YearInstant', 'decimals': '3', 'unitRef': 'pure'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}BasicEarningsLossPerShareSummaryOfBusinessResults,"{'contextRef': 'Prior1QuarterDuration', 'decimals': '2', 'unitRef': 'JPYPerShares'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}BasicEarningsLossPerShareSummaryOfBusinessResults,"{'contextRef': 'CurrentQuarterDuration', 'decimals': '2', 'unitRef': 'JPYPerShares'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfIssuedSharesAsOfFiscalYearEndIssuedSharesTotalNumberOfSharesEtc,"{'contextRef': 'FilingDateInstant_OrdinaryShareMember', 'decimals': '0', 'unitRef': 'shares'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfIssuedSharesAsOfFilingDateIssuedSharesTotalNumberOfSharesEtc,"{'contextRef': 'FilingDateInstant_OrdinaryShareMember', 'decimals': '0', 'unitRef': 'shares'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfIssuedSharesAsOfFiscalYearEndIssuedSharesTotalNumberOfSharesEtc,"{'contextRef': 'FilingDateInstant', 'decimals': '0', 'unitRef': 'shares'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfIssuedSharesAsOfFilingDateIssuedSharesTotalNumberOfSharesEtc,"{'contextRef': 'FilingDateInstant', 'decimals': '0', 'unitRef': 'shares'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfSharesIssuedSharesVotingRights,"{'contextRef': 'CurrentQuarterInstant_SharesWithNoVotingRightsMember', 'unitRef': 'shares', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfSharesIssuedSharesVotingRights,"{'contextRef': 'CurrentQuarterInstant_SharesWithRestrictedVotingRightsTreasurySharesEtcMember', 'unitRef': 'shares', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfSharesIssuedSharesVotingRights,"{'contextRef': 'CurrentQuarterInstant_SharesWithRestrictedVotingRightsOtherMember', 'unitRef': 'shares', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfVotingRightsIssuedSharesVotingRights,"{'contextRef': 'CurrentQuarterInstant_SharesWithRestrictedVotingRightsOtherMember', 'unitRef': 'pure', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfSharesIssuedSharesVotingRights,"{'contextRef': 'CurrentQuarterInstant_OrdinarySharesTreasurySharesSharesWithFullVotingRightsTreasurySharesEtcMember', 'decimals': '0', 'unitRef': 'shares'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfSharesIssuedSharesVotingRights,"{'contextRef': 'CurrentQuarterInstant_OrdinarySharesSharesWithFullVotingRightsOtherMember', 'decimals': '0', 'unitRef': 'shares'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfVotingRightsIssuedSharesVotingRights,"{'contextRef': 'CurrentQuarterInstant_OrdinarySharesSharesWithFullVotingRightsOtherMember', 'decimals': '0', 'unitRef': 'pure'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfSharesIssuedSharesVotingRights,"{'contextRef': 'CurrentQuarterInstant_OrdinarySharesSharesLessThanOneUnitMember', 'decimals': '0', 'unitRef': 'shares'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfSharesIssuedSharesVotingRights,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '0', 'unitRef': 'shares'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfVotingRightsIssuedSharesVotingRights,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '0', 'unitRef': 'pure'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfSharesHeldInOwnNameTreasurySharesEtc,"{'contextRef': 'CurrentQuarterInstant_Row1Member', 'decimals': '0', 'unitRef': 'shares'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfSharesHeldInOthersNamesTreasurySharesEtc,"{'contextRef': 'CurrentQuarterInstant_Row1Member', 'unitRef': 'shares', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TotalNumberOfSharesHeldTreasurySharesEtc,"{'contextRef': 'CurrentQuarterInstant_Row1Member', 'decimals': '0', 'unitRef': 'shares'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}ShareholdingRatioTreasurySharesEtc,"{'contextRef': 'CurrentQuarterInstant_Row1Member', 'decimals': '4', 'unitRef': 'pure'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfSharesHeldInOwnNameTreasurySharesEtc,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '0', 'unitRef': 'shares'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NumberOfSharesHeldInOthersNamesTreasurySharesEtc,"{'contextRef': 'CurrentQuarterInstant', 'unitRef': 'shares', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TotalNumberOfSharesHeldTreasurySharesEtc,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '0', 'unitRef': 'shares'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}ShareholdingRatioTreasurySharesEtc,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '4', 'unitRef': 'pure'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}CashAndDeposits,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}CashAndDeposits,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NotesAndAccountsReceivableTrade,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NotesAndAccountsReceivableTrade,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}Inventories,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}Inventories,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OtherCA,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OtherCA,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}AllowanceForDoubtfulAccountsCA,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}AllowanceForDoubtfulAccountsCA,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}CurrentAssets,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}CurrentAssets,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}PropertyPlantAndEquipment,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}PropertyPlantAndEquipment,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}IntangibleAssets,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}IntangibleAssets,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}InvestmentSecurities,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}InvestmentSecurities,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}DeferredTaxAssets,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}DeferredTaxAssets,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OtherIOA,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OtherIOA,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}AllowanceForDoubtfulAccountsIOAByGroup,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}AllowanceForDoubtfulAccountsIOAByGroup,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}InvestmentsAndOtherAssets,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}InvestmentsAndOtherAssets,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NoncurrentAssets,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NoncurrentAssets,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}Assets,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}Assets,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NotesAndAccountsPayableTrade,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NotesAndAccountsPayableTrade,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ShortTermLoansPayable,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ShortTermLoansPayable,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}CommercialPapersLiabilities,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}CommercialPapersLiabilities,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}IncomeTaxesPayable,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}IncomeTaxesPayable,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ProvisionCL,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ProvisionCL,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}AccountsPayableOther,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}AccountsPayableOther,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}AssetRetirementObligationsCL,"{'contextRef': 'Prior1YearInstant', 'unitRef': 'JPY', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}AssetRetirementObligationsCL,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OtherCL,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OtherCL,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}CurrentLiabilities,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}CurrentLiabilities,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}LongTermLoansPayable,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}LongTermLoansPayable,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ProvisionNCL,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ProvisionNCL,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetDefinedBenefitLiability,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetDefinedBenefitLiability,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}AssetRetirementObligationsNCL,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}AssetRetirementObligationsNCL,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OtherNCL,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OtherNCL,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NoncurrentLiabilities,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NoncurrentLiabilities,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}Liabilities,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}Liabilities,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}CapitalStock,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}CapitalStock,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}CapitalSurplus,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}CapitalSurplus,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}RetainedEarnings,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}RetainedEarnings,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}TreasuryStock,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}TreasuryStock,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ShareholdersEquity,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ShareholdersEquity,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ValuationDifferenceOnAvailableForSaleSecurities,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ValuationDifferenceOnAvailableForSaleSecurities,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}DeferredGainsOrLossesOnHedges,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}DeferredGainsOrLossesOnHedges,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ForeignCurrencyTranslationAdjustment,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ForeignCurrencyTranslationAdjustment,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}RemeasurementsOfDefinedBenefitPlans,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}RemeasurementsOfDefinedBenefitPlans,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ValuationAndTranslationAdjustments,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ValuationAndTranslationAdjustments,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NonControllingInterests,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NonControllingInterests,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetAssets,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetAssets,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}LiabilitiesAndNetAssets,"{'contextRef': 'Prior1YearInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}LiabilitiesAndNetAssets,"{'contextRef': 'CurrentQuarterInstant', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}CostOfSales,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}CostOfSales,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}GrossProfit,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}GrossProfit,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}SellingGeneralAndAdministrativeExpenses,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}SellingGeneralAndAdministrativeExpenses,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}InterestIncomeNOI,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}InterestIncomeNOI,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}DividendsIncomeNOI,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}DividendsIncomeNOI,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}EquityInEarningsOfAffiliatesNOI,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}EquityInEarningsOfAffiliatesNOI,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}InsuranceIncomeNOI,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}InsuranceIncomeNOI,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ForeignExchangeGainsNOI,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ForeignExchangeGainsNOI,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}SubsidyIncomeNOI,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}SubsidyIncomeNOI,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OtherNOI,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OtherNOI,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NonOperatingIncome,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NonOperatingIncome,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}InterestExpensesNOE,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}InterestExpensesNOE,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/jpcrp040300/q3r/001/E00012-000/2022-12-31/01/2023-02-07}ProvisionForLossOnLitigationNOE,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/jpcrp040300/q3r/001/E00012-000/2022-12-31/01/2023-02-07}ProvisionForLossOnLitigationNOE,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ProvisionOfAllowanceForDoubtfulAccountsNOE,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ProvisionOfAllowanceForDoubtfulAccountsNOE,"{'contextRef': 'CurrentYTDDuration', 'unitRef': 'JPY', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OtherNOE,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OtherNOE,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NonOperatingExpenses,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NonOperatingExpenses,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OrdinaryIncome,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OrdinaryIncome,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}GainOnDisposalOfNoncurrentAssetsEI,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}GainOnDisposalOfNoncurrentAssetsEI,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}InsuranceIncomeEI,"{'contextRef': 'Prior1YTDDuration', 'unitRef': 'JPY', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}InsuranceIncomeEI,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/jpcrp040300/q3r/001/E00012-000/2022-12-31/01/2023-02-07}GovernmentSubsidyEI,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/jpcrp040300/q3r/001/E00012-000/2022-12-31/01/2023-02-07}GovernmentSubsidyEI,"{'contextRef': 'CurrentYTDDuration', 'unitRef': 'JPY', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ExtraordinaryIncome,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ExtraordinaryIncome,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}LossOnDisposalOfNoncurrentAssetsEL,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}LossOnDisposalOfNoncurrentAssetsEL,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ImpairmentLossEL,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ImpairmentLossEL,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}LossOnDisasterEL,"{'contextRef': 'Prior1YTDDuration', 'unitRef': 'JPY', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}LossOnDisasterEL,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}RetirementBenefitExpensesEL,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}RetirementBenefitExpensesEL,"{'contextRef': 'CurrentYTDDuration', 'unitRef': 'JPY', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}LossOnReductionOfNoncurrentAssetsEL,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}LossOnReductionOfNoncurrentAssetsEL,"{'contextRef': 'CurrentYTDDuration', 'unitRef': 'JPY', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}LossOnValuationOfInvestmentSecuritiesEL,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}LossOnValuationOfInvestmentSecuritiesEL,"{'contextRef': 'CurrentYTDDuration', 'unitRef': 'JPY', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ExtraordinaryLoss,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ExtraordinaryLoss,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}IncomeBeforeIncomeTaxes,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}IncomeBeforeIncomeTaxes,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}IncomeTaxesCurrent,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}IncomeTaxesCurrent,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}IncomeTaxesDeferred,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}IncomeTaxesDeferred,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}IncomeTaxes,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}IncomeTaxes,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ProfitLoss,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ProfitLoss,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ProfitLossAttributableToOwnersOfParent,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ProfitLossAttributableToOwnersOfParent,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/jpcrp040300/q3r/001/E00012-000/2022-12-31/01/2023-02-07}LossAttributableToNonControllingInterests,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/jpcrp040300/q3r/001/E00012-000/2022-12-31/01/2023-02-07}LossAttributableToNonControllingInterests,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ValuationDifferenceOnAvailableForSaleSecuritiesNetOfTaxOCI,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ValuationDifferenceOnAvailableForSaleSecuritiesNetOfTaxOCI,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}DeferredGainsOrLossesOnHedgesNetOfTaxOCI,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}DeferredGainsOrLossesOnHedgesNetOfTaxOCI,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ForeignCurrencyTranslationAdjustmentNetOfTaxOCI,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ForeignCurrencyTranslationAdjustmentNetOfTaxOCI,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}RemeasurementsOfDefinedBenefitPlansNetOfTaxOCI,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}RemeasurementsOfDefinedBenefitPlansNetOfTaxOCI,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OtherComprehensiveIncome,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OtherComprehensiveIncome,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ComprehensiveIncome,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ComprehensiveIncome,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ComprehensiveIncomeAttributableToOwnersOfTheParent,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ComprehensiveIncomeAttributableToOwnersOfTheParent,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ComprehensiveIncomeAttributableToNonControllingInterests,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}ComprehensiveIncomeAttributableToNonControllingInterests,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}RevenuesFromExternalCustomers,"{'contextRef': 'Prior1YTDDuration_jpcrp040300-q3r_E00012-000MarineProductsTradingReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}RevenuesFromExternalCustomers,"{'contextRef': 'Prior1YTDDuration_jpcrp040300-q3r_E00012-000FoodReportableSegmentMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}RevenuesFromExternalCustomers,"{'contextRef': 'Prior1YTDDuration_jpcrp040300-q3r_E00012-000TunaBusinessReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}RevenuesFromExternalCustomers,"{'contextRef': 'Prior1YTDDuration_jpcrp040300-q3r_E00012-000DistributionServiceReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}RevenuesFromExternalCustomers,"{'contextRef': 'Prior1YTDDuration_OtherReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}RevenuesFromExternalCustomers,"{'contextRef': 'Prior1YTDDuration_TotalOfReportableSegmentsAndOthersMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}RevenuesFromExternalCustomers,"{'contextRef': 'Prior1YTDDuration_ReconcilingItemsMember', 'unitRef': 'JPY', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}RevenuesFromExternalCustomers,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TransactionsWithOtherSegments,"{'contextRef': 'Prior1YTDDuration_jpcrp040300-q3r_E00012-000MarineProductsTradingReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TransactionsWithOtherSegments,"{'contextRef': 'Prior1YTDDuration_jpcrp040300-q3r_E00012-000FoodReportableSegmentMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TransactionsWithOtherSegments,"{'contextRef': 'Prior1YTDDuration_jpcrp040300-q3r_E00012-000TunaBusinessReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TransactionsWithOtherSegments,"{'contextRef': 'Prior1YTDDuration_jpcrp040300-q3r_E00012-000DistributionServiceReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TransactionsWithOtherSegments,"{'contextRef': 'Prior1YTDDuration_OtherReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TransactionsWithOtherSegments,"{'contextRef': 'Prior1YTDDuration_TotalOfReportableSegmentsAndOthersMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TransactionsWithOtherSegments,"{'contextRef': 'Prior1YTDDuration_ReconcilingItemsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TransactionsWithOtherSegments,"{'contextRef': 'Prior1YTDDuration', 'unitRef': 'JPY', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'Prior1YTDDuration_jpcrp040300-q3r_E00012-000MarineProductsTradingReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'Prior1YTDDuration_jpcrp040300-q3r_E00012-000FoodReportableSegmentMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'Prior1YTDDuration_jpcrp040300-q3r_E00012-000TunaBusinessReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'Prior1YTDDuration_jpcrp040300-q3r_E00012-000DistributionServiceReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'Prior1YTDDuration_OtherReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'Prior1YTDDuration_TotalOfReportableSegmentsAndOthersMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'Prior1YTDDuration_ReconcilingItemsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'Prior1YTDDuration_jpcrp040300-q3r_E00012-000MarineProductsTradingReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'Prior1YTDDuration_jpcrp040300-q3r_E00012-000FoodReportableSegmentMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'Prior1YTDDuration_jpcrp040300-q3r_E00012-000TunaBusinessReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'Prior1YTDDuration_jpcrp040300-q3r_E00012-000DistributionServiceReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'Prior1YTDDuration_OtherReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'Prior1YTDDuration_TotalOfReportableSegmentsAndOthersMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'Prior1YTDDuration_ReconcilingItemsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'Prior1YTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}RevenuesFromExternalCustomers,"{'contextRef': 'CurrentYTDDuration_jpcrp040300-q3r_E00012-000MarineProductsTradingReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}RevenuesFromExternalCustomers,"{'contextRef': 'CurrentYTDDuration_jpcrp040300-q3r_E00012-000FoodReportableSegmentMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}RevenuesFromExternalCustomers,"{'contextRef': 'CurrentYTDDuration_jpcrp040300-q3r_E00012-000TunaBusinessReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}RevenuesFromExternalCustomers,"{'contextRef': 'CurrentYTDDuration_jpcrp040300-q3r_E00012-000DistributionServiceReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}RevenuesFromExternalCustomers,"{'contextRef': 'CurrentYTDDuration_OtherReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}RevenuesFromExternalCustomers,"{'contextRef': 'CurrentYTDDuration_TotalOfReportableSegmentsAndOthersMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}RevenuesFromExternalCustomers,"{'contextRef': 'CurrentYTDDuration_ReconcilingItemsMember', 'unitRef': 'JPY', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}RevenuesFromExternalCustomers,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TransactionsWithOtherSegments,"{'contextRef': 'CurrentYTDDuration_jpcrp040300-q3r_E00012-000MarineProductsTradingReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TransactionsWithOtherSegments,"{'contextRef': 'CurrentYTDDuration_jpcrp040300-q3r_E00012-000FoodReportableSegmentMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TransactionsWithOtherSegments,"{'contextRef': 'CurrentYTDDuration_jpcrp040300-q3r_E00012-000TunaBusinessReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TransactionsWithOtherSegments,"{'contextRef': 'CurrentYTDDuration_jpcrp040300-q3r_E00012-000DistributionServiceReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TransactionsWithOtherSegments,"{'contextRef': 'CurrentYTDDuration_OtherReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TransactionsWithOtherSegments,"{'contextRef': 'CurrentYTDDuration_TotalOfReportableSegmentsAndOthersMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TransactionsWithOtherSegments,"{'contextRef': 'CurrentYTDDuration_ReconcilingItemsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TransactionsWithOtherSegments,"{'contextRef': 'CurrentYTDDuration', 'unitRef': 'JPY', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'CurrentYTDDuration_jpcrp040300-q3r_E00012-000MarineProductsTradingReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'CurrentYTDDuration_jpcrp040300-q3r_E00012-000FoodReportableSegmentMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'CurrentYTDDuration_jpcrp040300-q3r_E00012-000TunaBusinessReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'CurrentYTDDuration_jpcrp040300-q3r_E00012-000DistributionServiceReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'CurrentYTDDuration_OtherReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'CurrentYTDDuration_TotalOfReportableSegmentsAndOthersMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'CurrentYTDDuration_ReconcilingItemsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}NetSales,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'CurrentYTDDuration_jpcrp040300-q3r_E00012-000MarineProductsTradingReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'CurrentYTDDuration_jpcrp040300-q3r_E00012-000FoodReportableSegmentMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'CurrentYTDDuration_jpcrp040300-q3r_E00012-000TunaBusinessReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'CurrentYTDDuration_jpcrp040300-q3r_E00012-000DistributionServiceReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'CurrentYTDDuration_OtherReportableSegmentsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'CurrentYTDDuration_TotalOfReportableSegmentsAndOthersMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'CurrentYTDDuration_ReconcilingItemsMember', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jppfs/2021-11-01/jppfs_cor}OperatingIncome,"{'contextRef': 'CurrentYTDDuration', 'decimals': '-6', 'unitRef': 'JPY'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}DocumentTitleCoverPage,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}ClauseOfStipulationCoverPage,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}PlaceOfFilingCoverPage,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}FilingDateCoverPage,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}QuarterlyAccountingPeriodCoverPage,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}CompanyNameCoverPage,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}CompanyNameInEnglishCoverPage,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TitleAndNameOfRepresentativeCoverPage,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}AddressOfRegisteredHeadquarterCoverPage,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TelephoneNumberAddressOfRegisteredHeadquarterCoverPage,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NameOfContactPersonAddressOfRegisteredHeadquarterCoverPage,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NearestPlaceOfContactCoverPage,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TelephoneNumberNearestPlaceOfContactCoverPage,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NameOfContactPersonNearestPlaceOfContactCoverPage,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}PlaceForPublicInspectionCoverPageTextBlock,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}EDINETCodeDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}FundCodeDEI,"{'contextRef': 'FilingDateInstant', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}SecurityCodeDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}FilerNameInJapaneseDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}FilerNameInEnglishDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}FundNameInJapaneseDEI,"{'contextRef': 'FilingDateInstant', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}FundNameInEnglishDEI,"{'contextRef': 'FilingDateInstant', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}CabinetOfficeOrdinanceDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}DocumentTypeDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}AccountingStandardsDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}WhetherConsolidatedFinancialStatementsArePreparedDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}IndustryCodeWhenConsolidatedFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}IndustryCodeWhenFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI,"{'contextRef': 'FilingDateInstant', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}CurrentFiscalYearStartDateDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}CurrentPeriodEndDateDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}TypeOfCurrentPeriodDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}CurrentFiscalYearEndDateDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}PreviousFiscalYearStartDateDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}ComparativePeriodEndDateDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}PreviousFiscalYearEndDateDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}NextFiscalYearStartDateDEI,"{'contextRef': 'FilingDateInstant', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}EndDateOfQuarterlyOrSemiAnnualPeriodOfNextFiscalYearDEI,"{'contextRef': 'FilingDateInstant', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}AmendmentFlagDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}IdentificationOfDocumentSubjectToAmendmentDEI,"{'contextRef': 'FilingDateInstant', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}ReportAmendmentFlagDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor}XBRLAmendmentFlagDEI,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}BusinessResultsOfGroupTextBlock,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}DescriptionOfBusinessTextBlock,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}BusinessRisksTextBlock,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}ManagementAnalysisOfFinancialPositionOperatingResultsAndCashFlowsTextBlock,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}CriticalContractsForOperationTextBlock,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TotalNumberOfSharesTextBlock,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}IssuedSharesTotalNumberOfSharesEtcTextBlock,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}ClassIssuedSharesTotalNumberOfSharesEtc,{'contextRef': 'FilingDateInstant_OrdinaryShareMember'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NameOfFinancialInstrumentsExchangeOnWhichSecuritiesAreListedOrAuthorizedFinancialInstrumentsBusinessAssociationToWhichSecuritiesAreRegistered,{'contextRef': 'FilingDateInstant_OrdinaryShareMember'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}DescriptionIssuedSharesTotalNumberOfSharesEtc,{'contextRef': 'FilingDateInstant_OrdinaryShareMember'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}DetailsOfEmployeeShareOptionProgramTextBlock,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}OtherInformationOnShareAcquisitionRightsTextBlock,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}ExercisesEtcOfMovingStrikeConvertibleBondsEtcTextBlock,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}ChangesInNumberOfIssuedSharesStatedCapitalEtcTextBlock,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}MajorShareholdersTextBlock,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}VotingRightsTextBlock,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}IssuedSharesVotingRightsTextBlock,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}DescriptionIssuedSharesVotingRights,"{'contextRef': 'CurrentQuarterInstant_SharesWithNoVotingRightsMember', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}DescriptionIssuedSharesVotingRights,"{'contextRef': 'CurrentQuarterInstant_SharesWithRestrictedVotingRightsTreasurySharesEtcMember', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}DescriptionIssuedSharesVotingRights,"{'contextRef': 'CurrentQuarterInstant_SharesWithRestrictedVotingRightsOtherMember', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}DescriptionIssuedSharesVotingRights,"{'contextRef': 'CurrentQuarterInstant_OrdinarySharesTreasurySharesSharesWithFullVotingRightsTreasurySharesEtcMember', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}DescriptionIssuedSharesVotingRights,"{'contextRef': 'CurrentQuarterInstant_OrdinarySharesSharesWithFullVotingRightsOtherMember', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}DescriptionIssuedSharesVotingRights,"{'contextRef': 'CurrentQuarterInstant_OrdinarySharesSharesLessThanOneUnitMember', '{http://www.w3.org/2001/XMLSchema-instance}nil': 'true'}"
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}TreasurySharesEtcTextBlock,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NameOfShareholderTreasurySharesEtc,{'contextRef': 'CurrentQuarterInstant_Row1Member'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}AddressOfShareholderTreasurySharesEtc,{'contextRef': 'CurrentQuarterInstant_Row1Member'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}InformationAboutOfficersTextBlock,{'contextRef': 'FilingDateInstant'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}RegulationsInAccordanceWithWhichConsolidatedFinancialStatementsHaveBeenPreparedFinancialInformation,{'contextRef': 'CurrentYTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NoteOnIndependentAuditFinancialInformation,{'contextRef': 'CurrentYTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}QuarterlyConsolidatedBalanceSheetTextBlock,{'contextRef': 'CurrentYTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}YearToQuarterEndConsolidatedStatementOfComprehensiveIncomeSingleStatementTextBlock,{'contextRef': 'CurrentYTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NotesChangesInScopeOfConsolidationOrEquityMethodTextBlock,{'contextRef': 'CurrentYTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NotesAdditionalInformationQuarterlyConsolidatedFinancialStatementsTextBlock,{'contextRef': 'CurrentYTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}DescriptionOfFactThatQuarterlyStatementOfCashFlowsHasNotBeenPreparedTextBlock,{'contextRef': 'CurrentYTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NotesRegardingDividendTextBlock,{'contextRef': 'Prior1YTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NotesRegardingDividendTextBlock,{'contextRef': 'CurrentYTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NotesSegmentInformationEtcQuarterlyConsolidatedFinancialStatementsTextBlock,{'contextRef': 'CurrentYTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}FootnotesRegardingSegmentInformationTableTextBlock,{'contextRef': 'Prior1YTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}InformationAboutImpairmentLossOfNonCurrentAssetsOrGoodwillEtcForEachReportableSegmentTextBlock,{'contextRef': 'Prior1YTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}FootnotesRegardingSegmentInformationTableTextBlock,{'contextRef': 'CurrentYTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}InformationAboutImpairmentLossOfNonCurrentAssetsOrGoodwillEtcForEachReportableSegmentTextBlock,{'contextRef': 'CurrentYTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NotesRevenueRecognitionQuarterlyConsolidatedFinancialStatementsTextBlock,{'contextRef': 'CurrentYTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NotesPerShareInformationQuarterlyConsolidatedFinancialStatementsTextBlock,{'contextRef': 'CurrentYTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}NotesSignificantEventsAfterReportingPeriodQuarterlyConsolidatedFinancialStatementsTextBlock,{'contextRef': 'CurrentYTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}OtherInformationConsolidatedFinancialStatementsEtcTextBlock,{'contextRef': 'CurrentYTDDuration'}
+0,{http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2021-11-01/jpcrp_cor}InformationAboutCompanyWhichProvidesGuaranteeToReportingCompanyTextBlock,{'contextRef': 'FilingDateInstant'}

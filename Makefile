@@ -1,8 +1,9 @@
-build:
+ini:
 	docker-compose build
+	docker-compose up -d
 
 py:
-	docker exec -it scraping bash
+	docker exec -it -w /root/src scraping bash
 
 up:
 	docker-compose up -d
